@@ -1,0 +1,48 @@
+#Navtop {
+  background-color: #00adb5;
+  height: 100px;
+  width: 100%;
+  line-height: 100px;
+  text-align: left;
+  left
+  display: flex;
+  font-size: 2em;
+  font-weight: bolder;
+  font-family: Montserrat-Black;
+  
+
+}
+
+.container-fluid {
+  padding: 0.1% 
+  font-family Montserrat-Black;
+
+}
+
+
+#center {
+  background-color: #3d84b8;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  padding-top: 8.5rem;
+  font-size: 2em;
+  font-weight: bolder;
+  font-family: Montserrat-Black;
+  
+  
+} 
+
+
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.btn:hover {
+  background-color: RoyalBlue;
+}
